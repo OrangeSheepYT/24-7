@@ -31,4 +31,4 @@ async def on_member_join(member):
     await bot.send_message(member, msg)	
 
 
-bot.run('Mzg5MDgxNzg2MDk5MTcxMzQ4.DQ3b5A.dA-FMDPgSVt2EzQ9EQpQyXeX7Ug')
+bot.run("mattd.123@yahoo.com","24/7bot")
