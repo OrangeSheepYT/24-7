@@ -27,7 +27,7 @@ async def on_ready():
 
 @bot.event
 async def on_member_join(member):
-    msg = "Hello and welcome {}! Take your time and join our partnering server where you can find more awesome friends and a family friendly community.... New comers will be rewarded with a cookie... uwu :cookie:  Invite: https://discord.gg/wtUMQsB ".format(member.mention)
+    msg = "Hello and welcome {}! Take your time and join our partnering server where you can find more awesome friends and a family friendly community.... New comers will be rewarded with a cookie... uwu :cookie:  Invite: https://discord.gg/VHaNn72 we also need staff".format(member.mention)
     await bot.send_message(member, msg)	
 
 
